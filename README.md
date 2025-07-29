@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-Gerador automatizado de documentos voltado para uso institucional da Defensoria Pública. Este script foi criado para ajudar um amigo do grupo da Defensoria, utilizando o  Google Colab para processar documentos modelo `.docx` com base em informações provenientes de arquivos `.csv`, permitindo gerar documentos personalizados de forma prática e eficiente.
+Gerador automatizado de documentos voltado para uso institucional. Este script foi criado para ajudar um amigo do grupo, utilizando o  Google Colab para processar documentos modelo `.docx` com base em informações provenientes de arquivos `.csv`, permitindo gerar documentos personalizados de forma prática e eficiente.
 
 ## Video:
 
