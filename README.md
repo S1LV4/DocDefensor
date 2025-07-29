@@ -4,8 +4,6 @@
 
 Gerador automatizado de procurações voltado para uso institucional da Defensoria Pública. Este script foi criado para ajudar um amigo do grupo da Defensoria, utilizando o  Google Colab para processar documentos modelo `.docx` com base em informações provenientes de arquivos `.csv`, permitindo gerar múltiplas procurações personalizadas de forma prática e eficiente.
 
-## VIDEO:
-
 ## Video:
 
 [![Assista o vídeo]([https://img.youtube.com/vi/78XdFL4UUtg/hqdefault.jpg](https://www.youtube.com/watch?v=78XdFL4UUtg))](https://www.youtube.com/watch?v=78XdFL4UUtg)
