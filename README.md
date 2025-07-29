@@ -44,8 +44,8 @@ Gerador automatizado de documentos voltado para uso institucional. Este script f
 
 ## Links Úteis
 
-- 🔗 **[Google Colab para execução]([https://colab.research.google.com](https://colab.research.google.com](https://colab.research.google.com/drive/18BBfvNwIIadPc68WZ9BfNteE0ecbOTCd?usp=sharing))** 
-- 👨‍💻 **[Desenvolvedor Original - S1LV4](https://github.com/S1LV4)**
+- 🔗 **[DocDefensor - Google Colab]([https://colab.research.google.com](https://colab.research.google.com/drive/18BBfvNwIIadPc68WZ9BfNteE0ecbOTCd?usp=sharing))**
+- 👨‍💻 **[Dev S1LV4](https://github.com/S1LV4)**
 - 🌐 **[Minhas redes - joao.ai](https://linktr.ee/joao.ai)**
 - 📧 **Suporte**: Entre em contato através dos links acima
 
