@@ -4,6 +4,13 @@
 
 Gerador automatizado de procurações voltado para uso institucional da Defensoria Pública. Este script foi criado para ajudar um amigo do grupo da Defensoria, utilizando o  Google Colab para processar documentos modelo `.docx` com base em informações provenientes de arquivos `.csv`, permitindo gerar múltiplas procurações personalizadas de forma prática e eficiente.
 
+## VIDEO:
+
+## Video:
+
+[![Assista o vídeo]([https://img.youtube.com/vi/78XdFL4UUtg/hqdefault.jpg](https://www.youtube.com/watch?v=78XdFL4UUtg))](https://www.youtube.com/watch?v=78XdFL4UUtg)
+
+
 ## Funcionalidades
 
 - ✅ Geração automatizada de procurações personalizadas
@@ -36,58 +43,6 @@ Gerador automatizado de procurações voltado para uso institucional da Defensor
 - Os documentos processados ficarão disponíveis na pasta `/procuracoes`
 - Faça o download individual ou compacte todos os arquivos
 - Cada procuração será nomeada automaticamente com base nos dados fornecidos
-
-## Estrutura do Projeto
-
-```
-DocDefensor/
-│
-├── 📄 FORM_PROCURACAO_AGE.docx     # Modelo da procuração
-├── 📊 procuracao_age.csv           # Base de dados com as informações
-├── 📓 main.ipynb                   # Notebook principal para execução
-├── 📁 procuracoes/                 # Pasta de saída dos arquivos gerados
-│   ├── procuracao_001.docx
-│   ├── procuracao_002.docx
-│   └── ...
-└── 📖 README.md                    # Esta documentação
-```
-
-## Configurações Avançadas
-
-### Personalização de Campos
-
-O sistema suporta os seguintes tipos de placeholders:
-
-- **Dados Pessoais**: `{{nome}}`, `{{cpf}}`, `{{rg}}`, `{{endereco}}`
-- **Contato**: `{{telefone}}`, `{{email}}`
-- **Localização**: `{{cidade}}`, `{{estado}}`, `{{cep}}`
-- **Datas**: `{{data_nascimento}}`, `{{data_documento}}`
-- **Campos Customizados**: Adicione conforme necessário
-
-### Formatação de Dados
-
-- **CPF**: Aceita com ou sem formatação (123.456.789-00 ou 12345678900)
-- **Telefone**: Formatos (11) 99999-9999 ou 11999999999
-- **Datas**: DD/MM/AAAA ou DD-MM-AAAA
-
-## Solução de Problemas
-
-### Erros Comuns
-
-1. **"Placeholder não encontrado"**
-   - Verifique se os nomes das colunas no CSV correspondem aos placeholders no modelo
-
-2. **"Arquivo não encontrado"**
-   - Certifique-se de que fez upload dos arquivos corretamente no Colab
-
-3. **"Erro de formatação"**
-   - Verifique a codificação do arquivo CSV (recomendado: UTF-8)
-
-### Dicas de Performance
-
-- Para lotes grandes (>100 documentos), execute em partes menores
-- Use conexão estável de internet durante o processamento
-- Mantenha os arquivos modelo simples para melhor performance
 
 ## Links Úteis
 
