@@ -28,7 +28,7 @@ Gerador automatizado de documentos voltado para uso institucional. Este script f
 
 ### 1. Execução
 
-1. Acesse o [DocDefensor - Google Colab](https://colab.research.google.com](https://colab.research.google.com/drive/18BBfvNwIIadPc68WZ9BfNteE0ecbOTCd?usp=sharing));
+1. Acesse o [DocDefensor - Google Colab](https://colab.research.google.com/github/S1LV4/DocDefensor/blob/main/docdefensor.ipynb)
 2. Clique em "Ficheiro" > Guardar uma cópia no Drive;
 3. Faça upload dos seus arquivos:
    - Substitua `FORM_PROCURACAO_AGE.docx` pelo seu modelo
@@ -44,7 +44,7 @@ Gerador automatizado de documentos voltado para uso institucional. Este script f
 
 ## Links Úteis
 
-- 🔗 **[DocDefensor - Google Colab](https://colab.research.google.com](https://colab.research.google.com/drive/18BBfvNwIIadPc68WZ9BfNteE0ecbOTCd?usp=sharing))**
+- 🔗 **[DocDefensor - Google Colab](https://colab.research.google.com/github/S1LV4/DocDefensor/blob/main/docdefensor.ipynb)**
 - 👨‍💻 **[Dev S1LV4](https://github.com/S1LV4)**
 - 🌐 **[Minhas redes - joao.ai](https://linktr.ee/joao.ai)**
 - 📧 **Suporte**: Entre em contato através dos links acima
